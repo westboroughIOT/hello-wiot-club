@@ -7,3 +7,6 @@ All of our current and future projects at Westborough IOT seem to involve connec
 ## Approved microcontrollers
 * ESPDuino
 * Arduino Uno with Esp8266 Module
+
+## How to use
+Open the mircocontroller directory and select your device.  Follow the Readme there.
