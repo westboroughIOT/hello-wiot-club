@@ -5,9 +5,11 @@
 ### Hardware
 * Arduino Uno
 * ESP8266 Module
+* Personal computer
 
 ### Software
-* TBD
+* Arduino IDE
+* OSX, Windows, Linux
 
 ## Instructions
 TBD
