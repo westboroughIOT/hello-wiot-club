@@ -10,3 +10,7 @@ All of our current and future projects at Westborough IOT seem to involve connec
 
 ## How to use
 Open the mircocontroller directory and select your device.  Follow the Readme there.
+
+## Sending a web request
+HTTP request link
+http://hello-woit-club.westboroughiot.com/
