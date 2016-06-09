@@ -14,3 +14,6 @@ Open the mircocontroller directory and select your device.  Follow the Readme th
 ## Sending a web request
 HTTP request link
 http://hello-woit-club.westboroughiot.com/
+
+## Bugs
+Coming Soon...
