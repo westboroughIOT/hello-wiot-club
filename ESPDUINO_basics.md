@@ -13,6 +13,9 @@ You can do that by following.
 
 2. Preferences
 
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Path.PNG)
+
 3. Add the following URL to the  
 
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Preference.PNG)
 
