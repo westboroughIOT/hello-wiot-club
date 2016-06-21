@@ -56,11 +56,21 @@ Once you install the driver and connect ESPDUINO to your laptop you should see t
 
 #### IDE Settings
 
-Now that you have ESPDUIO, IDE and drive you are almost ready to try your new board. Before that select  Espduino (ESP 13 module) as the board.
+Now that you have ESPDUIO, IDE and drive you are almost ready to try your new board. Before that select  Espduino (ESP 13 module) as the board and make sure following parameters are set.
 
-![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Espduino1.PNG)
+Board -> ESPDUINO ESP--13 module
+Upload Using -- Serial
+CPU Frequency - 80 Mhz
+Flash Size -- 4M
+Upload Speed -- 115200
+
+
 
 #### Uploading code to ESPDUINO
+
+Now try upload "Blink" example to Espduino. You can select the example by File--> Examples --> ESP8266 -- Blink
+
+Before you can upload the code to Espduino you need to flash and reset the board. You can do this by pressing flash button and with flash button still being pressed down, press the reset button and have both pressed for 6 seconds. After six seconds  release the reset first (still have flash button pressed). Now click "Upload" in Arduino to upload the code. First the code will complile and when IDE shows "Uploadng" release the reset button as well.
 
 
 
