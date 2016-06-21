@@ -9,17 +9,18 @@ Once you got your ESPDUINO there are few more steps to complete
 If you are already using Arduino IDE 1.6.8 or 1.6.9 then you need to add ESP8266 board to the IDE. 
 You can do that by following.
 
-1. Go  File Menu
-
-2. Preferences
+Go  File Menu--> and click on preferences
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Path.PNG)
 
-3. Add the following URL to the  "Additional Boards Manager URL"
+Add the following URL to the  "Additional Boards Manager URL"
  
  http://espduino.doit.am/package_esp8266com_index.json
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Preference.PNG)
+
+Now go to Tools--> Board --> Boards Manager
+
 
 
 
