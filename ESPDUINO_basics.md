@@ -21,6 +21,10 @@ Add the following URL to the  "Additional Boards Manager URL"
 
 Now go to Tools--> Board --> Boards Manager
 
+Select "updatable" in the type dropdown and you can see the board to be installed. Select the board and install
+
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/board.PNG)
+
 
 
 
