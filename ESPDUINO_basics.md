@@ -1,4 +1,5 @@
-ESPDUINO is a recent WIFI enabled Arduino board that is very easy to use for IOT project. ESPDUI combines Arduino and ESP8266 wireless capability. So connecting to Wifi and posting data to cloud can be done with easy steps. 
+ESPDUINO is a recent WIFI enabled Arduino board that is very easy to use for IOT project. ESPDUINO combines Arduino and ESP8266 wireless capability. Connecting ESPDUINO to Wifi and posting sensor data to cloud can be done in easy steps.
+
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/IMG_1137.JPG)
 
 Espduino can be purchased online as low as $8,this makes any IOT project cost effective.
@@ -31,8 +32,25 @@ Now you can see all the boards that are available as part of the installed packa
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/esp8266boards.PNG)
 
-##### Download the complete Arduino IDE prepackaged with ESP8266 module
+##### Download complete Arduino IDE prepackaged with ESP8266 module
 
+You can download entire prepackaged IDE under following URL
+
+http://en.doit.am/espduino.php
+
+1. There is no installation involved here, you just need to download and unzip the content. 
+2. Once you unzip the content in the download folder, copy the root folder arduino1.6.8-ESPDuino-2.1 to C: drive. I am suggesting this to avoid "File directory too long" error while compiling your ketch.
+3. You can launc the Arduino ESP8266 by just clicking the arduino.exe file
+
+#### CH340 driver installation
+
+ESPDUINO requires follwing driver to installed for to connect your computer
+
+You can download windows version from  http://en.doit.am/CH341SER.zip
+
+MAC version from http://www.doit.am/CH341SER_MAC.ZIP
+
+Once you install the driver and connect ESPDUINO to your laptop you should see the CH340 drive displayed ports
 
 
 
