@@ -15,7 +15,11 @@ You can do that by following.
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Path.PNG)
 
-3. Add the following URL to the  
+3. Add the following URL to the  "Additional Boards Manager URL"
+ 
+ http://espduino.doit.am/package_esp8266com_index.json
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Preference.PNG)
+
+
 
