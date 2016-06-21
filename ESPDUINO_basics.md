@@ -73,7 +73,7 @@ Now try upload "Blink" example to Espduino. You can select the example by File--
 Before you can upload the code to Espduino you need to flash and reset the board. You can do this by pressing flash button and with flash button still being pressed down, press the reset button and have both pressed for 6 seconds. After six seconds  release the reset first (still have flash button pressed). Now click "Upload" in Arduino to upload the code. First the code will complile and when IDE shows "Uploadng" release the reset button as well.
 
 
-
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Steps.PNG)
 
 
 
