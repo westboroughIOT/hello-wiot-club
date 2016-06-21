@@ -57,7 +57,7 @@ Once you install the driver and connect ESPDUINO to your laptop you should see t
 #### IDE Settings
 
 Now that you have ESPDUIO, IDE and drive you are almost ready to try your new board. Before that select the ESPDUINO as the board.
-![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/ESPDUINO.PNG)
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/ESpduino.PNG)
 
 
 
