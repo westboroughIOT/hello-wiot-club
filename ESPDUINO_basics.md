@@ -40,17 +40,25 @@ http://en.doit.am/espduino.php
 
 1. There is no installation involved here, you just need to download and unzip the content. 
 2. Once you unzip the content in the download folder, copy the root folder arduino1.6.8-ESPDuino-2.1 to C: drive. I am suggesting this to avoid "File directory too long" error while compiling your ketch.
-3. You can launc the Arduino ESP8266 by just clicking the arduino.exe file
+3. You can launch the Arduino ESP8266 by just clicking the arduino.exe file
 
 #### CH340 driver installation
 
-ESPDUINO requires follwing driver to installed for to connect your computer
+ESPDUINO requires CH340  driver to installed for to connect your computer
 
 You can download windows version from  http://en.doit.am/CH341SER.zip
 
 MAC version from http://www.doit.am/CH341SER_MAC.ZIP
 
 Once you install the driver and connect ESPDUINO to your laptop you should see the CH340 drive displayed ports
+
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/CH340.PNG)
+
+#### IDE Settings
+
+Now that you have ESPDUIO, IDE and drive you are almost ready to try your new board. Before that select the ESPDUINO as the board. 
+
+
 
 
 
