@@ -21,13 +21,13 @@ Thingspeak www.thingspeak.com  is an IOT website where sensor data from ESPDUINO
 In this example I am updating field1 in challen named "Temperature". For each channel Thingspeak generates an API key that needs to be used along with the field name(field1) while updating  data.   
 
 ####Hardware needed
-Espduino
-DHT11 Temperature sensor
-Connecting Wires
+1. Espduino
+2. DHT11 Temperature sensor
+3. Connecting Wires
 
 ####Software needed
-Arduino IDE with ESP8266 board 
-ESP8266 library
+1. Arduino IDE with ESP8266 board 
+2. ESP8266 library
 
 #### Others
 User id in thingspeak.com
