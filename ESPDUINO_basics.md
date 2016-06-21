@@ -25,6 +25,10 @@ Select "updatable" in the type dropdown and you can see the board to be installe
 
 ![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/board.PNG)
 
+Now you can see all the boards that are available as part of the installed package
+
+
+
 
 
 
