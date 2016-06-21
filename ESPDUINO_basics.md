@@ -58,7 +58,7 @@ Once you install the driver and connect ESPDUINO to your laptop you should see t
 
 Now that you have ESPDUIO, IDE and drive you are almost ready to try your new board. Before that select  Espduino (ESP 13 module) as the board.
 
-![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/CH340.PNG)
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/Espduino1.PNG)
 
 #### Uploading code to ESPDUINO
 
