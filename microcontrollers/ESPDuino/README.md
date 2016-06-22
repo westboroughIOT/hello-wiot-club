@@ -35,6 +35,6 @@ Login into thingspeak.com create your account and create your own Channel and fi
 1. User id in thingspeak.com
 2. Temperature Channel
 
-
+![alt tag](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/thingspeak.PNG)
 
 
