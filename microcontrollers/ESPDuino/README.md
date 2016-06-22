@@ -30,8 +30,8 @@ In this example I am updating field1 in challen named "Temperature". For each ch
 2. ESP8266 library
 
 #### Others
-User id in thingspeak.com
-Temperature Channel
+1. User id in thingspeak.com
+2. Temperature Channel
 
 
 
