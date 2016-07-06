@@ -2,7 +2,7 @@
 Connect your club approved microcontroller to the internet.  Send a signal to our webserver showing that your mircocontroller exists.
 
 ## Purpose
-All of our current and future projects at Westborough IOT seem to involve connecting to the internet. It would be great to document details on how to get one of the most common tasks accomplished, "the device communicating to a network".
+All of our current and future projects at Westborough IOT involve connecting to the internet.  This project sets the general model (file structure, hardware, etc) we plan to use in other projects.  This particular project is the simple program of "Hello World".  If you are new to the group or plan on contributing, this will be the perfect place to start.
 
 ## Approved microcontrollers
 * ESPDuino
@@ -16,4 +16,4 @@ HTTP request link
 http://hello-woit-club.westboroughiot.com/
 
 ## Bugs
-Coming Soon...
+Not fully tested, server might not respond correctly.  For now try to connect with [Things Speak](https://thingspeak.com/)
