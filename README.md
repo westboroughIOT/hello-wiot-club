@@ -9,7 +9,12 @@ All of our current and future projects at Westborough IOT involve connecting to 
 * Arduino Uno with Esp8266 Module
 
 ## How to use
-Open the mircocontroller directory and select your device.  Follow the Readme there.
+Follow instructions for your microcontroller setup
+### ESPDuino
+[Read docs here](https://github.com/westboroughIOT/hello-wiot-club/tree/master/microcontrollers/Arduino-Uno-Esp8266)
+
+### Arduino Uno with Esp8266 Module
+[Read docs here](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/README.md)
 
 ## Sending a web request
 HTTP request link
