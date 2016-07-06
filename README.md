@@ -16,5 +16,12 @@ Follow instructions for your microcontroller setup
 #### Arduino Uno with Esp8266 Module
 [Read docs here](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/README.md)
 
+## Contribute
+You can read our current [todo taks list](TODO.md) here.
+#### Code
+Should be done using Arduino Language (a set of c/c++) 
+#### Schematics
+
+
 ## Bugs
 Not fully tested, server might not respond correctly.  For now try to connect with [Things Speak](https://thingspeak.com/)
