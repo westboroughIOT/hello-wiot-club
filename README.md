@@ -10,10 +10,10 @@ All of our current and future projects at Westborough IOT involve connecting to 
 
 ## How to use
 Follow instructions for your microcontroller setup
-### ESPDuino
+#### ESPDuino
 [Read docs here](https://github.com/westboroughIOT/hello-wiot-club/tree/master/microcontrollers/Arduino-Uno-Esp8266)
 
-### Arduino Uno with Esp8266 Module
+#### Arduino Uno with Esp8266 Module
 [Read docs here](https://github.com/westboroughIOT/hello-wiot-club/blob/master/microcontrollers/ESPDuino/README.md)
 
 ## Sending a web request
